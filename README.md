@@ -3,7 +3,7 @@
 
 * [class 02, September 18, 2017](https://github.com/poloey/02_feni_sep_18)
 
-* class 03,September 19, 2017 - repeating class 01 & 02.
+* class 03, September 19, 2017 - repeating class 01 & 02.
 
 * [class 04, September 20, 2017](https://github.com/poloey/04_feni_sep_20)
                                 
