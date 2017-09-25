@@ -1,4 +1,6 @@
 # Feni class Lesson
+It will take about 2-3 minutes to go through every class gist. So If you do this frequently you will be fluent in those topic. Basic rule to be a fluent in any given topic is Repetition. Hope you will proper utilize this repo. 
+
 * [class 01, September 17, 2017](https://github.com/poloey/01_feni_sep_17)
 
 * [class 02, September 18, 2017](https://github.com/poloey/02_feni_sep_18)
