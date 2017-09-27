@@ -17,3 +17,5 @@ It will take about 2-3 minutes to go through every class gist. So If you do this
 
 * [class 08, September 26, 2017](https://github.com/poloey/08_feni_sep_26)
 
+* [class 09, September 27, 2017](https://github.com/poloey/09_feni_sep_27)
+
