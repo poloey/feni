@@ -1,12 +1,12 @@
 Feni Batch
 ==================
 
-### Video Lesson
+### Video Lessons
 
 --------
-All Video Lesson is Listed [Here](https://github.com/poloey/feni/blob/master/video_tuts.md)
+All Video Lessons is Listed [Here](https://github.com/poloey/feni/blob/master/video_tuts.md)
 
-### Class Lesson
+### Class Lessons
 
 --------
 
