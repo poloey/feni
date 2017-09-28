@@ -6,6 +6,7 @@ You will get the content reference beneath the youTube video as description
 " target="_blank"><img src="http://img.youtube.com/vi/jFnxQhRrZcA/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" border="10" /></a>
 
+---
 
 
 ### Making a basic html and css layout using html and css
@@ -13,12 +14,14 @@ alt="IMAGE ALT TEXT HERE" width="240" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/X2NdRl9lCtc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" border="10" /></a>
 
-
+---
 
 ### Git and Github basic
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZQeMstlL-gQ
 " target="_blank"><img src="http://img.youtube.com/vi/ZQeMstlL-gQ/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" border="10" /></a>
+
+---
 
 
 
