@@ -1,6 +1,11 @@
 Feni Batch
 ==================
 
+### Assignment
+
+--------
+All assignment is Listed [Here](https://github.com/poloey/feni/blob/master/assignments.md)
+
 ### Video Lessons
 
 --------
