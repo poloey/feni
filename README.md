@@ -1,4 +1,4 @@
-Feni Batch
+Feni Batch All Class List
 ==================
 
 ### Notice on Oct 4, 2017 [Old Notice will found here](https://github.com/poloey/feni/blob/master/notice.md)
