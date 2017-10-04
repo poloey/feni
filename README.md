@@ -30,7 +30,7 @@ Whenever You upload cv to github keep your repo name `<YourName>_cv`. First your
 
 * _Rezwana Akter Mimi_
 
-** Please upload cv to your github and share cv link in facebook group. **
+**Please upload cv to your github and share cv link in facebook group.**
 
 
 ### Assignment, Assessment, Video Lessons
