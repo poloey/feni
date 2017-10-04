@@ -9,13 +9,11 @@ Oct 8, 2017 - Will be first Assessment on HTML.  Skim [w3schools](http://w3schoo
 Oct 8, 2017 - Will be first Assessment on CSS.  Skim [w3schools](http://w3schools.com) css part thoroughly. 
 
 
-
-
 ### Generic Notice   
 
 --------
-#### first assignment CV 
-Whenever You upload cv to github keep your repo name `<YourName>_cv`. First your name. then underscore assignment name. Suppose in my case repo name will be `poloey_cv`. Here `poloey` my username. And Never Delete your repo from github profile. Since I will delivery upper people only your cv link.   
+#### First assignment - CV 
+Whenever You upload cv to github keep your repo name `<YourName>_cv`. First your name. then underscore assignment name. Suppose in my case repo name will be `poloey_cv`. Here `poloey` my username. And Never delete or rename your repo from github profile. Since I will delivery upper people only your cv link.   
 
 I haven't got html cv from following people        
 * Amina Akter Farzana
@@ -25,23 +23,19 @@ I haven't got html cv from following people
 * Zafor Iqbal Tanim
 * Mojibur Rahman
 * Rezwana Akter Mimi    
-Please upload cv to your github and share cv link in facebook group. Never change or delete cv from your github profile.    
+Please upload cv to your github and share cv link in facebook group.
 
 
-### Assignment
-
---------
-All assignment is Listed [Here](https://github.com/poloey/feni/blob/master/assignments.md)
-
-### Assignment
+### Assignment, Assessment, Video Lessons
 
 --------
-All assignment is Listed [Here](https://github.com/poloey/feni/blob/master/assignments.md)
+* All Assignments Listed [Here](https://github.com/poloey/feni/blob/master/assignments.md)
 
-### Video Lessons
+* All Assessment  Listed [Here](https://github.com/poloey/feni/blob/master/assessments.md)
 
---------
-All Video Lessons is Listed [Here](https://github.com/poloey/feni/blob/master/video_tuts.md)
+* All Video Lessons Listed [Here](https://github.com/poloey/feni/blob/master/video_tuts.md)
+
+* All Notice Listed [Here](https://github.com/poloey/feni/blob/master/video_tuts.md)
 
 ### Class Lessons
 
