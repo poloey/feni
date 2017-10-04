@@ -5,7 +5,7 @@ Feni Batch
 
 --------
 
-Oct 8, 2017 - Will be first Assessment on HTML.  Skim [w3schools](http://w3schools.com) html part thoroughly.
+Oct 8, 2017 - Will be first Assessment on HTML.  Skim [w3schools](http://w3schools.com) html part thoroughly.    
 Oct 8, 2017 - Will be first Assessment on CSS.  Skim [w3schools](http://w3schools.com) css part thoroughly. 
 
 
