@@ -1,5 +1,8 @@
 Feni Batch All Class List
+
 ==================
+Batch Code: TOP-OFF-H-43
+Facebook group: [https://www.facebook.com/groups/topuph43/](https://www.facebook.com/groups/topuph43/)
 
 ### Notice on Oct 4, 2017 [Old Notice here](https://github.com/poloey/feni/blob/master/notice.md)
 
