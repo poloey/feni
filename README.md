@@ -16,19 +16,19 @@ Oct 8, 2017 - Will be first Assessment on CSS.  Skim [w3schools](http://w3school
 Whenever You upload cv to github keep your repo name `<YourName>_cv`. First your name. then underscore assignment name. Suppose in my case repo name will be `poloey_cv`. Here `poloey` my username. And Never delete or rename your repo from github profile. Since I will delivery upper people only your cv link.   
 
 **I haven't got html cv from following people**
-* _Amina Akter Farzana_
+* Amina Akter Farzana
 
-* _Imran Khan_
+* Imran Khan
 
-* _Nizamul Hayder_
+* Nizamul Hayder
 
-* _Riaz Hayder_
+* Riaz Hayder
 
-* _Zafor Iqbal Tanim_
+* Zafor Iqbal Tanim
 
-* _Mojibur Rahman_
+* Mojibur Rahman
 
-* _Rezwana Akter Mimi_
+* Rezwana Akter Mimi
 
 **Please upload cv to your github and share cv link in facebook group.**
 
@@ -42,7 +42,7 @@ Whenever You upload cv to github keep your repo name `<YourName>_cv`. First your
 
 * All Video Lessons Listed [Here](https://github.com/poloey/feni/blob/master/video_tuts.md)
 
-* All Notice Listed [Here](https://github.com/poloey/feni/blob/master/video_tuts.md)
+* All Notice Listed [Here](https://github.com/poloey/feni/blob/master/notice.md)
 
 ### Class Lessons
 
