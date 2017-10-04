@@ -1,6 +1,38 @@
 Feni Batch
 ==================
 
+### Notice on Oct 4, 2017 [Old Notice will found here](https://github.com/poloey/feni/blob/master/notice.md)
+
+--------
+
+Oct 8, 2017 - Will be first Assessment on HTML.  Skim [w3schools](http://w3schools.com) html part thoroughly.
+Oct 8, 2017 - Will be first Assessment on CSS.  Skim [w3schools](http://w3schools.com) css part thoroughly. 
+
+
+
+
+### Generic Notice   
+
+--------
+#### first assignment CV 
+Whenever You upload cv to github keep your repo name `<YourName>_cv`. First your name. then underscore assignment name. Suppose in my case repo name will be `poloey_cv`. Here `poloey` my username. And Never Delete your repo from github profile. Since I will delivery upper people only your cv link.   
+
+I haven't got html cv from following people        
+* Amina Akter Farzana
+* Imran Khan
+* Nizamul Hayder
+* Riaz Hayder
+* Zafor Iqbal Tanim
+* Mojibur Rahman
+* Rezwana Akter Mimi    
+Please upload cv to your github and share cv link in facebook group. Never change or delete cv from your github profile.    
+
+
+### Assignment
+
+--------
+All assignment is Listed [Here](https://github.com/poloey/feni/blob/master/assignments.md)
+
 ### Assignment
 
 --------
@@ -36,4 +68,6 @@ It will take about 2-3 minutes to go through every class gist. So If you do this
 * [class 09, September 27, 2017](https://github.com/poloey/09_feni_sep_27)
 
 * [class 10, October 2, 2017](https://github.com/poloey/10_feni_oct_2)
+
+* [class 11, October 4, 2017](https://github.com/poloey/11_feni_oct_4)
 
