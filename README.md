@@ -50,7 +50,7 @@ Whenever You upload cv to github keep your repo name `<YourName>_cv`. First your
 
 --------
 
-It will take about 2-3 minutes to go through every class gist. So If you do this frequently you will be fluent in those topic. Basic rule to be a fluent in any given topic is Repetition. Hope you will proper utilize this repo. 
+It will take about 2-3 minutes to go through every class gist. So If you do this frequently you will be fluent in those topic. Basic rule to be a fluent in any given topic is Repetition. Hope you will proper utilize this repo. since any git repo won't be deleted, So it will be your life time reference. 
 
 * [class 01, September 17, 2017](https://github.com/poloey/01_feni_sep_17)
 
