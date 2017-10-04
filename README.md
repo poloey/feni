@@ -22,8 +22,6 @@ Whenever You upload cv to github keep your repo name `<YourName>_cv`. First your
 
 * Imran Khan
 
-* Nizamul Hayder
-
 * Riaz Hayder
 
 * Zafor Iqbal Tanim

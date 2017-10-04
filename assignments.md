@@ -18,7 +18,7 @@ Share your assignment link to Facebook Group.
 * [Israt Jahan](https://github.com/Muhammadk28/CV-home-work)  
 * [Mazidul Islam](https://github.com/sumon56/CV_made-LICT)  
 * [Muhammad Kayes](https://github.com/Muhammadk28/CV-home-work)  
-<!-- * [Nizamul Haydar](http://github.com/haydarkhan)   -->
+* [Nizamul Haydar](http://github.com/haydarkhan/haydarkhan_cv)  
 * [Tasnia Fardous](https://github.com/tasnia844/my-first-assesment-cv)  
 
 
