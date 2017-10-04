@@ -17,12 +17,19 @@ Whenever You upload cv to github keep your repo name `<YourName>_cv`. First your
 
 **I haven't got html cv from following people**
 * _Amina Akter Farzana_
+
 * _Imran Khan_
+
 * _Nizamul Hayder_
+
 * _Riaz Hayder_
+
 * _Zafor Iqbal Tanim_
+
 * _Mojibur Rahman_
+
 * _Rezwana Akter Mimi_
+
 Please upload cv to your github and share cv link in facebook group.
 
 
