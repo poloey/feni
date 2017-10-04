@@ -26,8 +26,6 @@ Whenever You upload cv to github keep your repo name `<YourName>_cv`. First your
 
 * Zafor Iqbal Tanim
 
-* Mojibur Rahman
-
 * Rezwana Akter Mimi
 
 **Please upload cv to your github and share cv link in facebook group.**
