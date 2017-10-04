@@ -1,5 +1,6 @@
-Assignments
-==================
+Assignments of Feni Batch
+
+--------------
 # Rule about github repo for Assignments
 Whenever You upload assignment to your github profile keep your repo name `<username>_<assignment_name>`. First your name. then underscore assignment name. Suppose in my case repo name `poloey_cv`. Here `poloey` my username. and `cv` is Assignment Name. Never delete or rename your repo from github profile. Since I will delivery upper people only your cv link.    
 Share your assignment link to Facebook Group. 
