@@ -2,7 +2,7 @@
 
 **Batch Code:** TOP-OFF-H-43    
 **Facebook group:** [https://www.facebook.com/groups/topuph43/](https://www.facebook.com/groups/topuph43/)
-# [আমরা কি শিখলাম এ course থেকে?](https://github.com/poloey/feni/blob/master/gist/first_12_class.md)
+# [আমরা কি শিখলাম এ course থেকে?(first 12 class)](https://github.com/poloey/feni/blob/master/gist/first_12_class.md)
 ### Notice on Oct 4, 2017 [Old Notice here](https://github.com/poloey/feni/blob/master/notice.md)
 
 --------
