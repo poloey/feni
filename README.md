@@ -15,7 +15,6 @@
 
 --------
 #### First assignment - CV 
-Whenever You upload cv to github keep your repo name `<YourName>_cv`. First your name. then underscore assignment name. Suppose in my case repo name will be `poloey_cv`. Here `poloey` my username. And Never delete or rename your repo from github profile. Since I will delivery upper people only your cv link.   
 
 **I haven't got html cv from following people**
 * Amina Akter Farzana
