@@ -10,19 +10,16 @@ Share your assignment link to Facebook Group.
 
 ### Make a CV using html and css
 
---------
-* [Abdullah Al Mamun](https://github.com/Muhammadk28/CV-home-work)  
-<!-- * [Amina Akter Farzana](http://github.com/amina6)   -->
-* [Golam Sarwar](https://github.com/sarwar12/curriculumvitae/tree/master/Mycv)  
-<!-- * [Imran Khan](http://github.com/imrankhan5)   -->
-* [Israt Jahan](https://github.com/Muhammadk28/CV-home-work)  
-* [Mazidul Islam](https://github.com/sumon56/CV_made-LICT)  
-* [Muhammad Kayes](https://github.com/Muhammadk28/CV-home-work)  
-* [Nizamul Haydar](https://github.com/haydarkhan/nizamul-haydar_cv)  
-* [Tasnia Fardous](https://github.com/tasnia844/my-first-assesment-cv)  
+* [Abdullah Al Mamun](http://github.com/mamun9ey/mamun9ey_cv)  
+<!-- * [Amina Akter Farzana](http://github.com/amina6/amina6_cv)   -->
+* [Golam Sarwar](http://github.com/sarwar12/sarwar12_cv)  
+<!-- * [Imran Khan](http://github.com/imrankhan5/imrankhan5_cv)   -->
+* [Israt Jahan](http://github.com/nishatab/nishatab_cv)  
+* [Mazidul Islam](http://github.com/sumon56/sumon56_cv)  
+* [Muhammad Kayes](http://github.com/muhammadk28/muhammadk28_cv)  
+* [Nizamul Haydar](http://github.com/haydarkhan/haydarkhan_cv)  
 * [Mojibur Rahman](https://github.com/shawon1058/shawon1058_cv)  
-
+* [Rezwana Akter Mimi](https://github.com/rezwanamimi/rezwanamimi_cv/rezwanamimi_cv)
 
 ### HTML, CSS, JS Website template
 
---------

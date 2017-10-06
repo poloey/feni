@@ -25,7 +25,6 @@
 
 * Zafor Iqbal Tanim
 
-* Rezwana Akter Mimi
 
 **Please upload cv to your github and share cv link in facebook group.**
 
