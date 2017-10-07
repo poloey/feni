@@ -23,8 +23,6 @@
 
 * Riaz Hayder
 
-* Zafor Iqbal Tanim
-
 
 **Please upload cv to your github and share cv link in facebook group.**
 

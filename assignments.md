@@ -20,6 +20,9 @@ Share your assignment link to Facebook Group.
 * [Nizamul Haydar](http://github.com/haydarkhan/haydarkhan_cv)  
 * [Mojibur Rahman](https://github.com/shawon1058/shawon1058_cv)  
 * [Rezwana Akter Mimi](https://github.com/rezwanamimi/rezwanamimi_cv)
+* [Zafor Iqbal Tanim](https://github.com/zaforiqbaltanim/zaforiqbaltanim_cv)
+* [Tofael Ahmmed](https://github.com/tofael49/tofael49_cv)
+
 
 ### HTML, CSS, JS Website template
 
