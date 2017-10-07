@@ -15,7 +15,7 @@ Share your assignment link to Facebook Group.
 * [Golam Sarwar](http://github.com/sarwar12/sarwar12_cv)  
 <!-- * [Imran Khan](http://github.com/imrankhan5/imrankhan5_cv)   -->
 * [Israt Jahan](http://github.com/nishatab/nishatab_cv)  
-* [Mazidul Islam](http://github.com/sumon56/sumon56_cv)  
+* [Mazidul Islam Sumon](http://github.com/sumon56/sumon56_cv)  
 * [Muhammad Kayes](http://github.com/muhammadk28/muhammadk28_cv)  
 * [Nizamul Haydar](http://github.com/haydarkhan/haydarkhan_cv)  
 * [Mojibur Rahman](https://github.com/shawon1058/shawon1058_cv)  

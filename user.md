@@ -3,7 +3,7 @@
 * [Golam Sarwar](http://github.com/sarwar12)  
 * [Imran Khan](http://github.com/imrankhan5)  
 * [Israt Jahan](http://github.com/nishatab)  
-* [Mazidul Islam](http://github.com/sumon56)  
+* [Mazidul Islam Sumon](http://github.com/sumon56)  
 * [Mojibur Rahman](https://github.com/shawon1058)  
 * [Muhammad Kayes](http://github.com/muhammadk28)  
 * [Nizamul Haydar](http://github.com/haydarkhan)  
