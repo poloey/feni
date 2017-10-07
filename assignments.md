@@ -19,7 +19,7 @@ Share your assignment link to Facebook Group.
 * [Muhammad Kayes](http://github.com/muhammadk28/muhammadk28_cv)  
 * [Nizamul Haydar](http://github.com/haydarkhan/haydarkhan_cv)  
 * [Mojibur Rahman](https://github.com/shawon1058/shawon1058_cv)  
-* [Rezwana Akter Mimi](https://github.com/rezwanamimi/rezwanamimi_cv/rezwanamimi_cv)
+* [Rezwana Akter Mimi](https://github.com/rezwanamimi/rezwanamimi_cv)
 
 ### HTML, CSS, JS Website template
 
