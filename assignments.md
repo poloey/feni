@@ -13,7 +13,7 @@ Share your assignment link to Facebook Group.
 * [Abdullah Al Mamun](http://github.com/mamun9ey/mamun9ey_cv)  
 <!-- * [Amina Akter Farzana](http://github.com/amina6/amina6_cv)   -->
 * [Golam Sarwar](http://github.com/sarwar12/sarwar12_cv)  
-<!-- * [Imran Khan](http://github.com/imrankhan5/imrankhan5_cv)   -->
+* [Imran Khan](http://github.com/imrankhan5/imrankhan5_cv)  
 * [Israt Jahan](http://github.com/nishatab/nishatab_cv)  
 * [Mazidul Islam Sumon](http://github.com/sumon56/sumon56_cv)  
 * [Muhammad Kayes](http://github.com/muhammadk28/muhammadk28_cv)  
