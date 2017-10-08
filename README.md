@@ -2,24 +2,11 @@
 
 **Batch Code:** TOP-OFF-H-43    
 **Facebook group:** [https://www.facebook.com/groups/topuph43/](https://www.facebook.com/groups/topuph43/)
-# [আমরা কি শিখলাম এ course থেকে?(first 12 class)](https://github.com/poloey/feni/blob/master/gist/first_12_class.md)
-### Notice on Oct 4, 2017 [Old Notice here](https://github.com/poloey/feni/blob/master/notice.md)
 
---------
-
-* Oct 8, 2017 - Will be first Assessment on HTML.  Skim [w3schools](http://w3schools.com) html part thoroughly.    
-* Oct 8, 2017 - Will be first Assessment on CSS.  Skim [w3schools](http://w3schools.com) css part thoroughly. 
-
-
-### Generic Notice   
-
---------
 #### First assignment - CV 
 
 **I haven't got html cv from following people**
 * Amina Akter Farzana
-
-* Imran Khan
 
 * Riaz Hayder
 
@@ -67,4 +54,6 @@ It will take about 2-3 minutes to go through every class gist. So If you do this
 * [class 11, October 4, 2017](https://github.com/poloey/11_feni_oct_4)
 
 * [class 12, October 5, 2017](https://github.com/poloey/12_feni_oct_5)
+
+* [class 13, October 8, 2017](https://github.com/poloey/13_feni_oct_8)
 
