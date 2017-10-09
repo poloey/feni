@@ -8,7 +8,7 @@
 * You have to complete a todo application with crud functionality as your home work (You may get help from [https://github.com/poloey/purejstodo](https://github.com/poloey/purejstodo) )
 * Please go through [w3Schools](http://w3schools.com) html, css, js, jquery
 
-#### First assignment - CV 
+## First assignment - CV 
 
 **I haven't got html cv from following people**
 * Amina Akter Farzana
