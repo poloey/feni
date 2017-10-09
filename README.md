@@ -1,7 +1,11 @@
-# Feni Batch All Class List
+ Feni Batch All Class List
 
 **Batch Code:** TOP-OFF-H-43    
 **Facebook group:** [https://www.facebook.com/groups/topuph43/](https://www.facebook.com/groups/topuph43/)
+
+## Home Work and Holiday
+* Due to final year exam class will be off Oct 10, Oct 11, Oct 12.
+* You have to complete a todo application with crud functionality as your home work (You may get help from [https://github.com/poloey/purejstodo](https://github.com/poloey/purejstodo) )
 
 #### First assignment - CV 
 
