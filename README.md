@@ -5,7 +5,7 @@
 
 ## Notice: Home Work and Holiday
 * Due to final year exam class will be off Oct 10, Oct 11, Oct 12.
-* You have to complete a basic todo application with crud functionality as your home work. View [_Todo_](https://poloey.github.io/purejstodo/advanced/) (You may get help from [html & js file](https://github.com/poloey/purejstodo) )
+* You have to complete a basic todo application with crud functionality as your home work. View [_Todo_](https://poloey.github.io/purejstodo/advanced/) [html & js file](https://github.com/poloey/purejstodo)
 * Please go through [w3Schools](http://w3schools.com) html, css, js, jquery
 
 ## First assignment - CV 
