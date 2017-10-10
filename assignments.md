@@ -1,5 +1,5 @@
+# [Feni Batch Home Page](http://poloey.github.io/feni):house:
 # Assignments of Feni Batch
-[Feni Batch Home Page](http://poloey.github.io/feni)
 
 ### Rule about github repo for Assignments
 
