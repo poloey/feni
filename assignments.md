@@ -1,4 +1,4 @@
-# [Feni Batch Home Page](http://poloey.github.io/feni):house:
+# [:house: Feni Batch Home Page](http://poloey.github.io/feni)
 # Assignments of Feni Batch
 
 ### Rule about github repo for Assignments
