@@ -3,7 +3,7 @@
 **Batch Code:** TOP-OFF-H-43    
 **Facebook group:** [https://www.facebook.com/groups/topuph43/](https://www.facebook.com/groups/topuph43/)
 
-## Notice: Home Work and Holiday
+## Notice: Home Work and Holiday [oct 09, 2017]
 * Due to final year exam class will be off Oct 10, Oct 11, Oct 12.
 * You have to complete a basic todo application with crud functionality as your home work. View [**Todo App**](https://poloey.github.io/purejstodo/advanced/).          
 You will get html and css file for todo from [here](https://github.com/poloey/purejstodo)   
@@ -20,7 +20,7 @@ You will get html and css file for todo from [here](https://github.com/poloey/pu
 **Please upload cv to your github and share cv link in facebook group.**
 
 
-### Assignment, Assessment, Video Lessons
+### Assignment, Assessment, Video Lessons, Old Notice
 
 --------
 * All Assignments Listed [Here](https://github.com/poloey/feni/blob/master/assignments.md)
