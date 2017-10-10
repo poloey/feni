@@ -1,4 +1,4 @@
-# [:house: Feni Batch All Class List](https://poloey.github.io/feni)
+# [Feni Batch All Class List](https://poloey.github.io/feni)
 
 **Batch Code:** TOP-OFF-H-43    
 **Facebook group:** [https://www.facebook.com/groups/topuph43/](https://www.facebook.com/groups/topuph43/)
