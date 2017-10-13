@@ -1,4 +1,11 @@
 # Students list of Feni batch - TOP-OFF-H-43
+
+Total Male -  13    
+Total Female -  4     
+Male Female Ratio - 13:4     
+76% male
+24% female     
+
 Name | M/F |
 ---- | ------
 Abdullah Al Mamun | M
@@ -19,8 +26,3 @@ Rezwana akter mimi |  F
 Golam Sarwar |  M
 nizamul haydar |  M
 
-Total Male -  13    
-Total Female -  4     
-Male Female Ratio - 13:4     
-76% male
-24% female
