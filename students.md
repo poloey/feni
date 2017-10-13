@@ -1,6 +1,7 @@
+# Students list of Feni batch - TOP-OFF-H-43
 Name | M/F |
 ---- | ------
-Abdullah Al | Mamun M
+Abdullah Al Mamun | M
 Muhammad Imran | M
 Zafor Iqbal Tanim | M
 Riazul Hayder | M
