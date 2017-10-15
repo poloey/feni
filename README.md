@@ -9,6 +9,7 @@ After every class, I am making documentation what you have learned from class, p
 ## Notice: Home Work [oct 15, 2017] - Assignment
 Assignment Build a basic Ecommerce / ticketing system / school management template.        
 Repo name: `<your_github_name>_ui`       
+In my case repo name will be `poloey_ui`
 
 Class will be held on 
 * friday - @9am
