@@ -1,5 +1,5 @@
 # [:house: Feni Batch Home Page](http://poloey.github.io/feni)
-* [Abdullah Al Mamun](http://github.com/mamun9ey)  
+j [Abdullah Al Mamun](http://github.com/mamun9ey)  
 * [Amina Akter Farzana](http://github.com/amina6)  
 * [Golam Sarwar](http://github.com/sarwar12)  
 * [Imran Khan](http://github.com/imrankhan5)  
@@ -9,5 +9,6 @@
 * [Muhammad Kayes](http://github.com/muhammadk28)  
 * [Nizamul Haydar](http://github.com/haydarkhan)  
 * [Rezwana Akter Mimi](https://github.com/rezwanamimi)
+* [Tasnia Fardous](https://github.com/tasnia844)
 * [Tofael Ahmmed](https://github.com/tofael49)
 * [Zafor Iqbal Tanim](https://github.com/zaforiqbaltanim)

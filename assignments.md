@@ -23,6 +23,7 @@ Share your assignment link to Facebook Group.
 * [Rezwana Akter Mimi](https://github.com/rezwanamimi/rezwanamimi_cv)
 * [Zafor Iqbal Tanim](https://github.com/zaforiqbaltanim/zaforiqbaltanim_cv)
 * [Tofael Ahmmed](https://github.com/tofael49/tofael49_cv)
+* [Tasnia Fardous](https://github.com/tasnia844/tasnia844_cv)
 
 
 ### HTML, CSS, JS Website template
