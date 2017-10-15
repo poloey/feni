@@ -3,12 +3,11 @@
 **Batch Code:** TOP-OFF-H-43    
 **Facebook group:** [https://www.facebook.com/groups/topuph43/](https://www.facebook.com/groups/topuph43/)
 
-## Notice: Home Work and Holiday [oct 09, 2017]
-* Due to final year exam class will be off Oct 10, Oct 11, Oct 12.
-* You have to complete a basic todo application with crud functionality as your home work.
-  * View [**Pure js Todo App**](https://poloey.github.io/purejstodo/advanced/). You will get html and css file for todo from [here](https://github.com/poloey/purejstodo)    
-  * View [**jQuery Todo App**](https://poloey.github.io/jquery-todo). You will get html and css file for todo from [here](https://github.com/poloey/jquery-todo)    
-* Please go through [w3Schools](http://w3schools.com) html, css, js, jquery
+# Preface
+After every class, I am making documentation what you have learned from class, plus some appropriate resource link to accelerate your learning. Which took me about 1.5 hours after every class. My objectives is make you good @ web development, make you fluent @ web technology, make you fluent @ technology. Therefore this amount of hour expending after every class its not adding value to my carrier, Or Lict people didn't asked me for that. Therefore I am doing it, so that you  can use it as your life time reference. You know its totally impossible to explain everything in this class gist documentation. But I am focusing on core things. But you have to learn beyond this gist from different source, official website. Do hard work for next 3 months, it definitely will help  you, in your whole life.       
+
+## Notice: Home Work [oct 15, 2017] - Assignment
+Assignment Build a basic Ecommerce / ticketing system / school management template 
 
 # Assessments of Feni Batch
 <table>
@@ -147,4 +146,6 @@ It will take about 2-3 minutes to go through every class gist. So If you do this
 * [class 13, October 8, 2017](https://github.com/poloey/13_feni_oct_8)
 
 * [class 14, October 9, 2017](https://github.com/poloey/14_feni_oct_9)
+
+* [class 15, October 15, 2017](https://github.com/poloey/15_feni_oct_15)
 
