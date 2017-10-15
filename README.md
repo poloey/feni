@@ -16,6 +16,9 @@ Class will be held on
 * sunday - @12pm
 * thusday - @12pm
 
+
+*JS* exam will be held on next friday   
+
 # Assessments of Feni Batch
 <table>
   <tr>
