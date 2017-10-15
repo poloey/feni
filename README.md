@@ -7,7 +7,7 @@
 After every class, I am making documentation what you have learned from class, plus some appropriate resource link to accelerate your learning. Which taking me about 1.5 hours after every class. My objectives is make you good @ web development, make you fluent @ web technology, make you fluent @ technology. Therefore this amount of hour expending after every class, its not adding value to my carrier, Or LICT people didn't asked me for that. Therefore I am doing it, so that you  can use it as your life time reference. You know its totally impossible to explain everything in this class gist documentation. But I am focusing on core things. But you have to learn beyond this gist from different source, official website. Do hard work for next 3 months, it will definitely help  you, in your whole life.       
 
 ## Notice: Home Work [oct 15, 2017] - Assignment
-*Assignment:* Build a basic Ecommerce / ticketing system / school management template.        
+**Assignment:** Build a basic Ecommerce / ticketing system / school management template.        
 Repo name: `<your_github_name>_ui`       
 In my case repo name will be `poloey_ui`
 
@@ -17,7 +17,7 @@ Class will be held on
 * thusday - @12pm
 
 
-*JS* exam will be held on next friday   
+**JS** exam will be held on next friday   
 
 # Assessments of Feni Batch
 <table>
