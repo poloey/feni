@@ -8,7 +8,12 @@ After every class, I am making documentation what you have learned from class, p
 
 ## Notice: Home Work [oct 15, 2017] - Assignment
 Assignment Build a basic Ecommerce / ticketing system / school management template.        
-Repo name: `<your_github_name>_ui`
+Repo name: `<your_github_name>_ui`       
+
+Class will be held on 
+* friday - @9am
+* sunday - @12pm
+* thusday - @12pm
 
 # Assessments of Feni Batch
 <table>
