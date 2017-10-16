@@ -46,6 +46,31 @@ Class will be held on
     <td> 18</td>
   </tr>
   <tr>
+    <td>israt jahan bhuiyan nishat</td> 
+    <td>ijbnishat22@gmail.com </td>
+    <td> 0 </td>
+    <td> 0</td>
+  </tr>
+  <tr>
+    <td>md abdur rahman </td>
+    <td>md.abdur.rahman.morgang8200000@gmail.com </td>
+    <td> 0 </td>
+    <td> 0</td>
+  </tr>
+  <tr>
+    <td>Mohammad Younus </td>
+    <td>younus8797@gmail.com </td>
+    <td> 0 </td>
+    <td> 0</td>
+  </tr>
+  <tr>
+    <td>Mojibur Rahman </td>
+    <td></td>
+    <td> 0 </td>
+    <td> 0</td>
+  </tr>
+
+  <tr>
     <td>Tasnia Fardous </td> 
     <td>tasnia.fardous@gmail.com </td>
     <td> 20 </td>
