@@ -29,7 +29,7 @@ Class will be held on
   </tr>
   <tr>
     <td>Sarwar Khan </td> 
-    <td>arwarkhan.nahin@gmail.com </td>
+    <td>sarwarkhan.nahin@gmail.com </td>
     <td> 20 </td>
     <td> 19</td>
   </tr>
