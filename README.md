@@ -13,7 +13,7 @@ In my case, github Repo name will be `poloey_ui`
 
 Class will be held on 
 * friday - @9am
-* sunday - @12pm
+* tuesday - @12pm
 * thusday - @12pm
 
 
