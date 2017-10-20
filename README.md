@@ -11,13 +11,7 @@ After every class, I am making documentation what you have learned from class, p
 Repo name: `<your_github_name>_ui`       
 In my case, github Repo name will be `poloey_ui`
 
-Class will be held on 
-* friday - @9am
-* tuesday - @12pm
-* thusday - @12pm
 
-
-**JS exam will be held on next friday**     
 
 # Assessments of Feni Batch
 <table>
@@ -125,9 +119,6 @@ Class will be held on
     <td> 16</td>
   </tr>
 </table>
-
-
-**Please upload cv to your github and share cv link in facebook group.**
 
 
 ### Assignment, Assessment, Video Lessons, Old Notice
