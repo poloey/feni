@@ -59,9 +59,9 @@ In my case, github Repo name will be `poloey_ui`
   </tr>
   <tr>
     <td>Mojibur Rahman </td>
+    <td></td>
     <td>20</td>
     <td>18</td>
-    <td> 0</td>
   </tr>
 
   <tr>
