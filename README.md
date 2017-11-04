@@ -42,8 +42,8 @@ In my case, github Repo name will be `poloey_ui`
   <tr>
     <td>israt jahan bhuiyan nishat</td> 
     <td>ijbnishat22@gmail.com </td>
-    <td> 0 </td>
-    <td> 0</td>
+    <td> 20 </td>
+    <td> 13</td>
   </tr>
   <tr>
     <td>md abdur rahman </td>
@@ -59,8 +59,8 @@ In my case, github Repo name will be `poloey_ui`
   </tr>
   <tr>
     <td>Mojibur Rahman </td>
-    <td></td>
-    <td> 0 </td>
+    <td>20</td>
+    <td>18</td>
     <td> 0</td>
   </tr>
 
