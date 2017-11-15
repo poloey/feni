@@ -182,21 +182,23 @@ It will take about 2-3 minutes to go through every class gist. So If you do this
 
 * [class 22, October 31, 2017 - Tue](https://github.com/poloey/22_feni_oct_31)
 
-* [class 23, November 01, 2017 - Wednesday](https://github.com/poloey/23_feni_nov_01)
+* [class 23, November 01, 2017 - Wed](https://github.com/poloey/23_feni_nov_01)
 
-* [class 24, November 02, 2017 - Thusday](https://github.com/poloey/24_feni_nov_02)
+* [class 24, November 02, 2017 - Thu](https://github.com/poloey/24_feni_nov_02)
 
-* [class 25, November 05, 2017 - sunday](https://github.com/poloey/25_feni_nov_05)
+* [class 25, November 05, 2017 - sun](https://github.com/poloey/25_feni_nov_05)
 
-* [class 26, November 06, 2017 - Monday](https://github.com/poloey/26_feni_nov_06)
+* [class 26, November 06, 2017 - Mon](https://github.com/poloey/26_feni_nov_06)
 
 * [class 27, November 07, 2017 - Tues](https://github.com/poloey/27_feni_nov_07)
 
-* [class 28, November 08, 2017 - Wednesday](https://github.com/poloey/28_feni_nov_08)
+* [class 28, November 08, 2017 - Wed](https://github.com/poloey/28_feni_nov_08)
 
-* [class 29, November 09, 2017 - Wednesday](https://github.com/poloey/29_feni_nov_09)
+* [class 29, November 09, 2017 - Thu](https://github.com/poloey/29_feni_nov_09)
 
-* [class 30, November 12, 2017 - sunday](https://github.com/poloey/30_feni_nov_12)
+* [class 30, November 12, 2017 - sun](https://github.com/poloey/30_feni_nov_12)
+
+* [class 31, November 14, 2017 - Tue](https://github.com/poloey/31_feni_nov_14)
 
 
 
