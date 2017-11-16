@@ -26,5 +26,5 @@ repo name: <your_github_name>_php_crud
 ### What should you do       
 Build a crud application using pdo
 ### How can you make it quicker      
-If you are unable to do it by yourself, just upload our crud class file. and keep the repo name as sated (<your_github_name>_php_crud_pdo)
+If you are unable to do it by yourself, just upload our crud class file. and keep the repo name as sated (<your_github_name>_php_crud)
 
