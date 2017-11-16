@@ -1,7 +1,7 @@
 # html, css, js assignment
 reponame: <your_github_name>_ui      
 ### What should you do     
-Please make a html css js bootstrap template. and upload to your github account. keep repository name as I told <your_github_name>_ui.
+Please make a html, css, js  and bootstrap template. and upload to your github account. keep repository name as I told <your_github_name>_ui.
 ### How can you make it quicker or you are unable to do so.       
 I have made basic ecommerce page in class earlier. If you are unable to make your own just upload my class file with changing content and color. I hope it will take less than 10 minutes.
 
