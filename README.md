@@ -208,6 +208,8 @@ It will take about 2-3 minutes to go through every class gist. So If you do this
 
 * [class 35, November 23, 2017 - Thu](https://github.com/poloey/35_feni_nov_23)
 
+* [class 36, November 26, 2017 - Sun](https://github.com/poloey/36_feni_nov_26)
+
 
 
 
