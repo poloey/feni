@@ -1,5 +1,5 @@
 # [:house: Feni Batch Home Page](http://poloey.github.io/feni)
-# Notice h43
+# Notice 
 --------
 ## Notice: Home Work and Holiday [oct 09, 2017]
 * Due to final year exam class will be off Oct 10, Oct 11, Oct 12.
